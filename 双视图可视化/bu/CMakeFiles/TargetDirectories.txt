@@ -1,0 +1,3 @@
+/Users/hejinlong/高级点云可视化/两个视图/bu/CMakeFiles/rebuild_cache.dir
+/Users/hejinlong/高级点云可视化/两个视图/bu/CMakeFiles/edit_cache.dir
+/Users/hejinlong/高级点云可视化/两个视图/bu/CMakeFiles/main.dir

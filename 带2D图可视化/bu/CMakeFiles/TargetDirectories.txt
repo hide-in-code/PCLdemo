@@ -1,0 +1,3 @@
+/Users/hejinlong/高级点云可视化/云测点云可视化工具/bu/CMakeFiles/rebuild_cache.dir
+/Users/hejinlong/高级点云可视化/云测点云可视化工具/bu/CMakeFiles/edit_cache.dir
+/Users/hejinlong/高级点云可视化/云测点云可视化工具/bu/CMakeFiles/pcl_view.dir
